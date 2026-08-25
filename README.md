@@ -8,6 +8,7 @@ leetcode solutions in java
 | ------- |
 | [0001-two-sum](https://github.com/SomyaGola/leetcode-solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SomyaGola/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0643-maximum-average-subarray-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SomyaGola/leetcode-solution/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
