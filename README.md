@@ -36,6 +36,7 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/SomyaGola/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0709-to-lower-case](https://github.com/SomyaGola/leetcode-solution/tree/master/0709-to-lower-case) |
 ## Math
 |  |
 | ------- |
