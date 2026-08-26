@@ -41,6 +41,7 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SomyaGola/leetcode-solution/tree/master/0189-rotate-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/SomyaGola/leetcode-solution/tree/master/2769-find-the-maximum-achievable-number) |
 ## Sorting
 |  |
 | ------- |
