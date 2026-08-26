@@ -9,6 +9,7 @@ leetcode solutions in java
 | [0001-two-sum](https://github.com/SomyaGola/leetcode-solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SomyaGola/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/SomyaGola/leetcode-solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SomyaGola/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ leetcode solutions in java
 | ------- |
 | [0011-container-with-most-water](https://github.com/SomyaGola/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/SomyaGola/leetcode-solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SomyaGola/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SomyaGola/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
