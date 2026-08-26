@@ -17,6 +17,7 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SomyaGola/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SomyaGola/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -25,4 +26,8 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/SomyaGola/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
