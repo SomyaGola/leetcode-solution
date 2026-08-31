@@ -13,6 +13,7 @@ leetcode solutions in java
 | [0283-move-zeroes](https://github.com/SomyaGola/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/SomyaGola/leetcode-solution/tree/master/0905-sort-array-by-parity) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/SomyaGola/leetcode-solution/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
