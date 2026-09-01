@@ -43,6 +43,7 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SomyaGola/leetcode-solution/tree/master/0189-rotate-array) |
+| [1486-xor-operation-in-an-array](https://github.com/SomyaGola/leetcode-solution/tree/master/1486-xor-operation-in-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SomyaGola/leetcode-solution/tree/master/2769-find-the-maximum-achievable-number) |
 ## Sorting
 |  |
@@ -56,4 +57,8 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SomyaGola/leetcode-solution/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/SomyaGola/leetcode-solution/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
