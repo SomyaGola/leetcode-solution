@@ -20,6 +20,7 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SomyaGola/leetcode-solution/tree/master/0001-two-sum) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SomyaGola/leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,11 +38,13 @@ leetcode solutions in java
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SomyaGola/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SomyaGola/leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/SomyaGola/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0709-to-lower-case](https://github.com/SomyaGola/leetcode-solution/tree/master/0709-to-lower-case) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SomyaGola/leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Math
 |  |
 | ------- |
@@ -65,4 +68,8 @@ leetcode solutions in java
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/SomyaGola/leetcode-solution/tree/master/1486-xor-operation-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SomyaGola/leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
