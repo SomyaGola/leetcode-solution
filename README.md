@@ -9,6 +9,7 @@ leetcode solutions in java
 | [0001-two-sum](https://github.com/SomyaGola/leetcode-solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SomyaGola/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/SomyaGola/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SomyaGola/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SomyaGola/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SomyaGola/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
@@ -20,6 +21,7 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SomyaGola/leetcode-solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/SomyaGola/leetcode-solution/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/SomyaGola/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SomyaGola/leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
@@ -59,11 +61,13 @@ leetcode solutions in java
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SomyaGola/leetcode-solution/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/SomyaGola/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SomyaGola/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SomyaGola/leetcode-solution/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,5 +79,10 @@ leetcode solutions in java
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SomyaGola/leetcode-solution/tree/master/0169-majority-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SomyaGola/leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SomyaGola/leetcode-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
