@@ -48,6 +48,7 @@ leetcode solutions in java
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/SomyaGola/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SomyaGola/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/SomyaGola/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/SomyaGola/leetcode-solution/tree/master/0709-to-lower-case) |
