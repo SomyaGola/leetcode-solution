@@ -57,6 +57,7 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SomyaGola/leetcode-solution/tree/master/0189-rotate-array) |
+| [1025-divisor-game](https://github.com/SomyaGola/leetcode-solution/tree/master/1025-divisor-game) |
 | [1486-xor-operation-in-an-array](https://github.com/SomyaGola/leetcode-solution/tree/master/1486-xor-operation-in-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SomyaGola/leetcode-solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [3870-count-commas-in-range](https://github.com/SomyaGola/leetcode-solution/tree/master/3870-count-commas-in-range) |
@@ -75,6 +76,7 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SomyaGola/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [1025-divisor-game](https://github.com/SomyaGola/leetcode-solution/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,4 +94,16 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/SomyaGola/leetcode-solution/tree/master/0724-find-pivot-index) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SomyaGola/leetcode-solution/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SomyaGola/leetcode-solution/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/SomyaGola/leetcode-solution/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
