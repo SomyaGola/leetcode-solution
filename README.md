@@ -16,6 +16,7 @@ leetcode solutions in java
 | [0724-find-pivot-index](https://github.com/SomyaGola/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/SomyaGola/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SomyaGola/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1652-defuse-the-bomb](https://github.com/SomyaGola/leetcode-solution/tree/master/1652-defuse-the-bomb) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SomyaGola/leetcode-solution/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SomyaGola/leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -44,6 +45,7 @@ leetcode solutions in java
 | [0567-permutation-in-string](https://github.com/SomyaGola/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SomyaGola/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1652-defuse-the-bomb](https://github.com/SomyaGola/leetcode-solution/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SomyaGola/leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
