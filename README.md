@@ -13,6 +13,7 @@ leetcode solutions in java
 | [0169-majority-element](https://github.com/SomyaGola/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SomyaGola/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SomyaGola/leetcode-solution/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SomyaGola/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SomyaGola/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/SomyaGola/leetcode-solution/tree/master/0724-find-pivot-index) |
@@ -26,6 +27,7 @@ leetcode solutions in java
 | ------- |
 | [0001-two-sum](https://github.com/SomyaGola/leetcode-solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SomyaGola/leetcode-solution/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SomyaGola/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SomyaGola/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/SomyaGola/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SomyaGola/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -74,6 +76,7 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SomyaGola/leetcode-solution/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SomyaGola/leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/SomyaGola/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
