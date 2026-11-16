@@ -85,6 +85,7 @@ leetcode solutions in java
 | ------- |
 | [0053-maximum-subarray](https://github.com/SomyaGola/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SomyaGola/leetcode-solution/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/SomyaGola/leetcode-solution/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +94,7 @@ leetcode solutions in java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/SomyaGola/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/SomyaGola/leetcode-solution/tree/master/1486-xor-operation-in-an-array) |
 ## Counting
 |  |
