@@ -64,6 +64,7 @@ leetcode solutions in java
 | [0567-permutation-in-string](https://github.com/SomyaGola/leetcode-solution/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/SomyaGola/leetcode-solution/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/SomyaGola/leetcode-solution/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SomyaGola/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SomyaGola/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SomyaGola/leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -147,6 +148,7 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/SomyaGola/leetcode-solution/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SomyaGola/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/SomyaGola/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -154,4 +156,8 @@ leetcode solutions in java
 | ------- |
 | [0844-backspace-string-compare](https://github.com/SomyaGola/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/SomyaGola/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
