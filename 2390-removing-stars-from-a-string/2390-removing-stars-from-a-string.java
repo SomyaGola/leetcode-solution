@@ -3,8 +3,9 @@ class Solution {
         Stack<Character> st = new Stack<>();
         for(char ch : s.toCharArray()){
             if(ch=='*'){
+                if(!st.isEmpty()){
                     st.pop();
-            }
+            }}
             else{
                 st.push(ch);
             }
