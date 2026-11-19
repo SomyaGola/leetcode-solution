@@ -18,6 +18,7 @@ leetcode solutions in java
 | [0496-next-greater-element-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/SomyaGola/leetcode-solution/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/SomyaGola/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/SomyaGola/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SomyaGola/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/SomyaGola/leetcode-solution/tree/master/1652-defuse-the-bomb) |
@@ -150,6 +151,7 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/SomyaGola/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/SomyaGola/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SomyaGola/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -167,4 +169,5 @@ leetcode solutions in java
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/SomyaGola/leetcode-solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
