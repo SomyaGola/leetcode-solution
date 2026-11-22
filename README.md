@@ -69,6 +69,7 @@ leetcode solutions in java
 | [0844-backspace-string-compare](https://github.com/SomyaGola/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SomyaGola/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SomyaGola/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SomyaGola/leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/SomyaGola/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
@@ -155,6 +156,7 @@ leetcode solutions in java
 | [0844-backspace-string-compare](https://github.com/SomyaGola/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SomyaGola/leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/SomyaGola/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
