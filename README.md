@@ -152,6 +152,7 @@ leetcode solutions in java
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SomyaGola/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SomyaGola/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/SomyaGola/leetcode-solution/tree/master/0844-backspace-string-compare) |
@@ -175,4 +176,12 @@ leetcode solutions in java
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SomyaGola/leetcode-solution/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SomyaGola/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SomyaGola/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
