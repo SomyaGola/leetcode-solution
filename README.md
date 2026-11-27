@@ -17,6 +17,7 @@ leetcode solutions in java
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SomyaGola/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/SomyaGola/leetcode-solution/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/SomyaGola/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/SomyaGola/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/SomyaGola/leetcode-solution/tree/master/0905-sort-array-by-parity) |
@@ -156,6 +157,7 @@ leetcode solutions in java
 | [0020-valid-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/SomyaGola/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/SomyaGola/leetcode-solution/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/SomyaGola/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/SomyaGola/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
@@ -166,6 +168,7 @@ leetcode solutions in java
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/SomyaGola/leetcode-solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/SomyaGola/leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/SomyaGola/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
