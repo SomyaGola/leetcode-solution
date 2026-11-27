@@ -62,6 +62,7 @@ leetcode solutions in java
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SomyaGola/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SomyaGola/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/SomyaGola/leetcode-solution/tree/master/0567-permutation-in-string) |
@@ -152,6 +153,7 @@ leetcode solutions in java
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/SomyaGola/leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/SomyaGola/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SomyaGola/leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -169,6 +171,7 @@ leetcode solutions in java
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SomyaGola/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
